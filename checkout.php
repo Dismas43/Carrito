@@ -35,30 +35,8 @@ $arreglo=$_SESSION['carrito']
 <script src="js/jquery.easydropdown.js"></script>
 </head>
 <body>
-     <div class="header-top">
-	   <div class="wrap"> 
-			  <div class="header-top-left">
-			  	   <div class="box">
-   				    
-   				    </div>
-   				    <div class="box1">
-   				      
-   				    </div>
-   				    <div class="clear"></div>
-   			 </div>
-			 <div class="cssmenu">
-				<ul>
-					<li class="active"><a href="">Account</a></li> |
-					<li><a href="">Wishlist</a></li> |
-					<li><a href="">Checkout</a></li> |
-					<li><a href="">Log In</a></li> |
-					<li><a href="">Sign Up</a></li>
-				</ul>
-			</div>
-			<div class="clear"></div>
- 		</div>
-	</div>
-<?php include("header1.php"); ?>
+   
+<?php include("header2.php"); ?>
 <div class="site-section">
       <div class="container">
         <div class="row mb-5">
